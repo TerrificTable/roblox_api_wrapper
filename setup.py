@@ -11,9 +11,9 @@ setuptools.setup(
     description="A Wrapper for the Roblox API", # Why am i doing this?
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="", # TODO
+    url="https://github.com/TerrificTable/roblox_api_wrapper", # TODO
     project_urls={
-        "Bug Tracker": "", # TODO
+        "Bug Tracker": "https://github.com/TerrificTable/roblox_api_wrapper/issues", # TODO
     },
     classifiers=[
         "Programming Language :: Python :: 3",
