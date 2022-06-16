@@ -1,0 +1,8 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+wrapper/roblox_api_wrapper.egg-info/PKG-INFO
+wrapper/roblox_api_wrapper.egg-info/SOURCES.txt
+wrapper/roblox_api_wrapper.egg-info/dependency_links.txt
+wrapper/roblox_api_wrapper.egg-info/top_level.txt
