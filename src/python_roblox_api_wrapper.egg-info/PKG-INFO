@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: python-roblox-api-wrapper
+Version: 0.0.1
+Summary: A Wrapper for the Roblox API
+Home-page: https://github.com/TerrificTable/roblox_api_wrapper
+Author: TerrificTable55
+Author-email: terrifictable@terrifictable.xyz
+Project-URL: Bug Tracker, https://github.com/TerrificTable/roblox_api_wrapper/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Roblox API Wrapper
+Why am i doing this?<br>
+Its a wrapper for the roblox api...
