@@ -1,0 +1,26 @@
+import gamesapi.v2
+import gamesapi.v1.addFavorite
+import gamesapi.v1.getFavoriteCount
+import gamesapi.v1.gameSuggestionsFromGameID
+import gamesapi.v1.getGamesGamepasses
+import gamesapi.v1.getGamesList
+import gamesapi.v1.getGameServerList
+import gamesapi.v1.getGames
+import gamesapi.v1.getGameDetails
+import gamesapi.v1.getGameVote
+import gamesapi.v1.getGameVotes
+import gamesapi.v1.getPlayabilityStatus
+import gamesapi.v1.getPrivateServers
+import gamesapi.v1.getSortToken
+import gamesapi.v1.isFavorite
+import gamesapi.v1.productInfo
+import gamesapi.v1.spotlightGames
+import gamesapi.v1.voteGame
+
+import userapi.general.getInfoByName
+import userapi.general.getUserInfo
+import userapi.general.searchUser
+import userapi.general.usernameHistory
+import userapi.existingUser.setDisplayName_for_authorized_user
+import userapi.existingUser.validate_displayname_for_existing_user
+import userapi.newUser.valide_displayname_for_new_user
